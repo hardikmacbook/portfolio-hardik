@@ -107,7 +107,7 @@ input, select, textarea {
 }
 
 #star-logo:hover{
-	color: red;
+	color: yellow;
 	transform: rotate(90deg);
 }
 
@@ -116,7 +116,7 @@ input, select, textarea {
 }
 
 #name:hover, .major:hover{
-	color:red;
+	color: yellow;
 }
 
 
